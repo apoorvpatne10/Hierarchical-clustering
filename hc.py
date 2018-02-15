@@ -33,7 +33,3 @@ plt.xlabel('Annual Income of customers')
 plt.ylabel('Spending Score')
 plt.legend()
 plt.show()
-
-
-"""
-"""
